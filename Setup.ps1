@@ -1,0 +1,3 @@
+Set-ExecutionPolicy RemoteSigned
+import-module PowerShellGet
+Install-Module -Name ExchangeOnlineManagement
